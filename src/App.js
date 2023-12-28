@@ -22,7 +22,7 @@ const FollowMouseComponent = () => {
       style={{
         position: 'relative',
         width: '100%',
-        height: '100vh',
+        height: '400vh',
         background: calculateGradient(), // Corrected: Remove quotes
         transition: 'background 0.7s ease-in-out',
       }}
